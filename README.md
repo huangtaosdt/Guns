@@ -5,6 +5,7 @@ The dataset is stored in guns.csv file.It contains information on gun deaths
 in the US from 2012 to 2014. Each row in the dataset represents a single fatality. 
 
 Here's an explanation of each column:
+
 	year -- the year in which the fatality occurred.
 	month -- the month in which the fatality occurred.
 	intent -- the intent of the perpetrator of the crime. This can be Suicide, Accidental, NA, Homicide, or Undetermined.
