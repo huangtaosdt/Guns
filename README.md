@@ -3,6 +3,7 @@ Exploring Gun Deaths In The US
 
 The dataset is stored in guns.csv file.It contains information on gun deaths 
 in the US from 2012 to 2014. Each row in the dataset represents a single fatality. 
+
 Here's an explanation of each column:
 	year -- the year in which the fatality occurred.
 	month -- the month in which the fatality occurred.
@@ -19,9 +20,12 @@ Here's an explanation of each column:
 	3 -- Some College
 	4 -- At least graduated from College
 	5 -- Not available
+	
 In this project,I will explore the dataset,and try to find patterns in the demographics of 
 the victims.
+
 Steps:
+
 First:
 	Read file and explore its structure.
 Second:
