@@ -28,8 +28,11 @@ the victims.
 Steps:
 
 First:
+
 	Read file and explore its structure.
 Second:
+
 	Explore dataset then try to find some pattern.
 Third:
+
 	Plotting our findings.
