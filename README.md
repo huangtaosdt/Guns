@@ -2,10 +2,9 @@
 Exploring Gun Deaths In The US
 
 The dataset is stored in guns.csv file.It contains information on gun deaths 
-in the US from 2012 to 2014. Each row in the dataset represents a single fatality. 
+in the US from 2012 to 2014. Each row in the dataset represents a single fatality. Another file is census.csv file,it contains the race population in 2010.
 
-Here's an explanation of each column:
-
+Here's an explanation of each column in guns.csv file:
 	year -- the year in which the fatality occurred.
 	month -- the month in which the fatality occurred.
 	intent -- the intent of the perpetrator of the crime. This can be Suicide, Accidental, NA, Homicide, or Undetermined.
@@ -28,11 +27,8 @@ the victims.
 Steps:
 
 First:
-
 	Read file and explore its structure.
 Second:
-
 	Explore dataset then try to find some pattern.
 Third:
-
 	Plotting our findings.
